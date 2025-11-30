@@ -1,0 +1,7 @@
+{
+  "name": "Iqraa Hifdh Engine",
+  "description": "An AI-powered memorization assistant for Islamic texts using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
